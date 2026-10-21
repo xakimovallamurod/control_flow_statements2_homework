@@ -1,17 +1,11 @@
-def main(number):
+def main(belgi, a, b):
     """
-    Return the days of the week, return the days of the week according to the numbers 1 to 7.
-    Use the elif statments.
-    1: "Monday"
-    2: "Tuesday"
-    3: "Wednesday"
-    4: "Thursday"
-    5: "Friday"
-    6: "Saturday"
-    7: "Sunday"
-    Args:
-        number: Number of the day.
-    Returns:
-        str: return answer.
+    Allamurod oddiy kalkulyator yozmoqda. Amal belgisi ("+", "-", "*", "/") va ikki son berilgan. Amal natijasini qaytaring. Agar bo'luvchi 0 bo'lsa "Nolga bo'lish mumkin emas", amal belgisi noma'lum bo'lsa "Noma'lum amal" matnini qaytaring.
+    Argumentlar:
+        belgi(str): amal belgisi
+        a(int): birinchi son
+        b(int): ikkinchi son
+    Qaytaradi:
+        int | float | str: natija yoki xabar
     """
     return

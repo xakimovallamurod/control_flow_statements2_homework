@@ -1,11 +1,11 @@
-def main(a,b,c):
+def main(a, b, c):
     """
-    Find the largest of the numbers.
-    Args:
-        a: First number.
-        b: Second number.
-        c: Third number.
-    Returns:
-        int: return answer.
+    Allamurodning uch oylik daromadi berilgan. max() funksiyasidan foydalanmasdan eng katta daromadni qaytaring.
+    Argumentlar:
+        a(int): 1-oy
+        b(int): 2-oy
+        c(int): 3-oy
+    Qaytaradi:
+        int: natija
     """
     return

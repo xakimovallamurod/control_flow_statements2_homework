@@ -1,9 +1,9 @@
-def main(n):
+def main(baho):
     """
-    Find the largest digit of the five-digit number.
-    Args:
-        n: Five-digit number.
-    Returns:
-        int: return answer.
+    Allamurodning bahosi berilgan. Baho so'z bilan qaytarilsin: 5 — "A'lo", 4 — "Yaxshi", 3 — "Qoniqarli", 2 — "Qoniqarsiz". Boshqa qiymatlar uchun "Noto'g'ri baho" qaytaring.
+    Argumentlar:
+        baho(int): baho
+    Qaytaradi:
+        str: natija matni
     """
     return

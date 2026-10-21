@@ -1,9 +1,11 @@
-def main(n):
+def main(a, b, c):
     """
-    Find the index of the largest digit of the five-digit number.
-    Args:
-        n: Five-digit number.
-    Returns:
-        int: return answer.
+    Allamurodning uchta fandan olgan bali berilgan. Eng katta va eng kichik ball orasidagi (o'rtadagi) balni qaytaring. max(), min() va sorted() dan foydalanmang.
+    Argumentlar:
+        a(int): 1-fan
+        b(int): 2-fan
+        c(int): 3-fan
+    Qaytaradi:
+        int: natija
     """
     return

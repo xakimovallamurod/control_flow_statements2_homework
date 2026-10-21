@@ -1,11 +1,10 @@
-def main(a,b,c):
+def main(a, b):
     """
-    Find the smallest of the numbers.
-    Args:
-        a: First number.
-        b: Second number.
-        c: Third number.
-    Returns:
-        int: return answer.
+    Allamurodning yoshi va akasining yoshi berilgan. Agar ular teng bo'lsa 0, aks holda kattasini qaytaring.
+    Argumentlar:
+        a(int): Allamurodning yoshi
+        b(int): akasining yoshi
+    Qaytaradi:
+        int: natija
     """
     return
